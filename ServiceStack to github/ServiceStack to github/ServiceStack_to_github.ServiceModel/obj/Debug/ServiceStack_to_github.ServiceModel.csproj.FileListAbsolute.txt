@@ -1,0 +1,6 @@
+C:\Users\eugene.betonio\Source\Repos\serviceStack\ServiceStack to github\ServiceStack to github\ServiceStack_to_github.ServiceModel\bin\Debug\ServiceStack_to_github.ServiceModel.dll
+C:\Users\eugene.betonio\Source\Repos\serviceStack\ServiceStack to github\ServiceStack to github\ServiceStack_to_github.ServiceModel\bin\Debug\ServiceStack_to_github.ServiceModel.pdb
+C:\Users\eugene.betonio\Source\Repos\serviceStack\ServiceStack to github\ServiceStack to github\ServiceStack_to_github.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\eugene.betonio\Source\Repos\serviceStack\ServiceStack to github\ServiceStack to github\ServiceStack_to_github.ServiceModel\obj\Debug\ServiceStack_to_github.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\eugene.betonio\Source\Repos\serviceStack\ServiceStack to github\ServiceStack to github\ServiceStack_to_github.ServiceModel\obj\Debug\ServiceStack_to_github.ServiceModel.dll
+C:\Users\eugene.betonio\Source\Repos\serviceStack\ServiceStack to github\ServiceStack to github\ServiceStack_to_github.ServiceModel\obj\Debug\ServiceStack_to_github.ServiceModel.pdb
